@@ -1,0 +1,2 @@
+# Greedy
+Greedy Approach porblems
